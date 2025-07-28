@@ -1,0 +1,7 @@
+name: featherUtils
+version: '1.0.0'
+main: org.flennn.FeatherUtils
+api-version: '1.20'
+author: flennn
+description: A utility plugin for Feather client.
+softdepend: [LiteBans]
